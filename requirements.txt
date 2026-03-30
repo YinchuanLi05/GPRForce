@@ -1,0 +1,11 @@
+# GPRForce - minimal runtime dependencies (Windows, Python >= 3.10)
+
+PyQt6>=6.5
+numpy>=1.23
+scipy>=1.10
+matplotlib>=3.7
+h5py>=3.8
+
+# 3D view (currently REQUIRED because ui/model3d_pv.py is imported at startup)
+pyvista>=0.43
+pyvistaqt>=0.11
