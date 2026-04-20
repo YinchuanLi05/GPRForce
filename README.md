@@ -1,6 +1,6 @@
 # GPRForce
 
-**GPRForce** is an end-to-end desktop platform for ground-penetrating radar (GPR) data, built around a closed-loop workflow of **import, metadata completion, processing, visualization, comparison, and export**. It supports **linked inspection of simulation models (gprMax `.in`) and echo data (`.out` / `.npy`)**, while turning commonly used preprocessing and filtering pipelines into **parameterized and reproducible workflows** for both research and engineering delivery.
+**GPRForce** is an end-to-end desktop platform for ground-penetrating radar (GPR) data, built around a closed-loop workflow of **import, metadata completion, processing, visualization, comparison, 和 export**. It supports **linked inspection of simulation models (gprMax `.in`) and echo data (`.out` / `.npy`)**, while turning commonly used preprocessing and filtering pipelines into **parameterized and reproducible workflows** for both research and engineering delivery.
 
 > **Name meaning:** GPR stands for *Ground Penetrating Radar*. The word *Force* reflects the software’s intended role as a driving force for GPR workflows—transforming scattered empirical know-how into an operational, comparable, and reproducible engineering process.
 
@@ -64,9 +64,9 @@ If you prefer a short statement in a paper, report, project document, or present
 
 > Part of the GPR data preparation, processing, visualization, and comparison workflow in this work was conducted using the open-source software **GPRForce**.
 
-## Feedback, Issues, and Contact
+## Feedback, Issues, 和 Contact
 
-We welcome bug reports, reproducibility issues, feature requests, optimization suggestions, and collaboration inquiries related to **GPRForce**.
+We welcome bug reports, reproducibility issues, feature requests, optimization suggestions, 和 collaboration inquiries related to **GPRForce**.
 
 If you encounter any problems while using the software, identify unexpected behavior, or have ideas for improvement, please feel free to contact us. Feedback from users is valuable for improving software robustness, usability, documentation quality, and engineering reproducibility.
 
@@ -95,7 +95,7 @@ We also welcome suggestions on the following aspects:
 ## Runtime Environment
 
 - **OS:** Windows 10 / Windows 11 (64-bit)
-- **Python:** **Python 3.10 or above is recommended**  
+- **Python:** **Python 3.9 or above is recommended**  
   (the project has been verified to run successfully in a Python 3.10 environment)
 - **Main dependencies:** PyQt6, NumPy, SciPy, Matplotlib, h5py, PyVista / pyvistaqt (for 3D visualization), etc.
 
