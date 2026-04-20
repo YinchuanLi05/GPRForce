@@ -2,7 +2,7 @@
 
 **GPRForce** is an end-to-end desktop platform for ground-penetrating radar (GPR) data, built around a closed-loop workflow of **import, metadata completion, processing, visualization, comparison, and export**. It supports **linked inspection of simulation models (gprMax `.in`) and echo data (`.out` / `.npy`)**, while turning commonly used preprocessing and filtering pipelines into **parameterized and reproducible workflows** for both research and engineering delivery.
 
-> **Name meaning:** GPR stands for *Ground Penetrating Radar*. The word *Force* reflects the software’s intended role as a driving force for GPR workflows—transforming scattered empirical know-how into an operational, comparable, and reproducible engineering process.
+> **Name meaning:** GPR stands for *Ground Penetrating Radar*. The word *Force* reflects the software’s intended role as a driving force for GPR workflows—transforming scattered empirical know-how into an operational, comparable,and reproducible engineering process.
 
 ## Key Features
 
