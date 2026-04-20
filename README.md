@@ -16,7 +16,7 @@
 
 - **Configurable Processing Pipeline**
   - Typical operations include **DC removal, time-zero correction, dewow, top mute windowing, background removal, gain control, AGC, band-pass filtering, F-K filtering, and envelope display**
-  - All steps are **switchable, parameterized, and reproducible**, making experimental workflows easier to control and repeat
+  - All steps are **switchable, parameterized, reproducible**, making experimental workflows easier to control and repeat
 
 - **Visualization and Interaction**
   - Supports **B-scan axis calibration** in time/depth coordinates, with depth converted based on **relative permittivity (εr)**
